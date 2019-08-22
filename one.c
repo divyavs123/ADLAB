@@ -29,6 +29,18 @@ int main()
 }
 	
 	
+bmsce@bmsce-Precision-T1700:~$ cd Desktop
+bmsce@bmsce-Precision-T1700:~/Desktop$ gcc one.c
+bmsce@bmsce-Precision-T1700:~/Desktop$ ./a.out
+enter the number of elemnts:6
+enter the element:7
+enter the element:10
+enter the element:4
+enter the element:3
+enter the element:20
+enter the element:15
+enter the k3
+the smallest elemt is 7
 
 
 
