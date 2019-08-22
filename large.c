@@ -56,7 +56,7 @@ printMax(arr,n,k);
 return 0;
 }
 
-
+output:
 
 bmsce@bmsce-Precision-T1700:~/Desktop$ gcc large.c
 bmsce@bmsce-Precision-T1700:~/Desktop$ ./a.out
