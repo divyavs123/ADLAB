@@ -55,3 +55,35 @@ printMax(arr,n,k);
 
 return 0;
 }
+
+
+
+bmsce@bmsce-Precision-T1700:~/Desktop$ gcc large.c
+bmsce@bmsce-Precision-T1700:~/Desktop$ ./a.out
+
+ENTER THE NUMBER OF ELEMENTS TO INSERT INTO THE ARRAY:
+6
+
+ENTER THE ELEMENTS OF THE ARRAY:
+33
+55
+77
+35
+66
+77
+
+ENTER THE NUMBER OF MAX ELEMENTS:
+3
+
+SORTED ARRAY:
+
+33
+35
+55
+66
+77
+77
+MAXIMUM ELEMETS ARE:
+77
+77
+66
